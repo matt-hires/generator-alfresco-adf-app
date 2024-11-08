@@ -1,6 +1,7 @@
 #  Modified ADF application generator for Yeoman
 
-This is a mod of the original Alfresco ADF application for yeoman which works also for Windows. 
+This is a mod of the original Alfresco ADF application for yeoman which works also for Windows npm installation.
+It fixes problems with yeoman and deasync npm packages.
 
 ## Pre-Requisites
 
