@@ -23,10 +23,10 @@ Write-Host "Running tests ..."
 npm test
 
 $yoVersion="4.3.1"
-Write-Host "Installing yo ${yoVersion} ..."
+Write-Host "Installing Yeoman ${yoVersion} ..."
 npm install -g "yo@${yoVersion}"
 
 Write-Host "Link generator-alfresco-adf-app globally ..."
 npm install -g
 
-Write-Host -ForegroundColor Green "Successfully installed. Run yo to use alfresco templates."
+Write-Host -ForegroundColor Green "Successfully installed. Run Yeoman with 'yo' to use alfresco templates."
