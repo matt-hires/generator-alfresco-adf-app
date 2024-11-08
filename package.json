@@ -18,6 +18,11 @@
     "yeoman-assert": "3.1.1",
     "yeoman-test": "2.0.0"
   },
+  "overrides": {
+    "generator-alfresco-common": {
+      "deasync": "0.1.30"
+    }
+  },
   "jest": {
     "testEnvironment": "node",
     "testPathIgnorePatterns": [
